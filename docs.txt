@@ -1,0 +1,14 @@
+ERROR HANDALING
+programmers error
+Operational error
+
+throw  new Error("User not Found")
+
+try{
+throw  new Error("User not Found")
+
+}catch(error){
+  res.status
+}
+
+cryto.randomBytes(64).toString('hex');
