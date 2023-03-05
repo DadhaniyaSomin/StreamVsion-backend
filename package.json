@@ -1,0 +1,16 @@
+{
+  "name": "StramVison",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.21"
+  },
+  "main": "index.js",
+  "license": "MIT"
+}
